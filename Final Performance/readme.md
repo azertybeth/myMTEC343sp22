@@ -3,7 +3,7 @@ Documentation
 bits of code recycled from every performance over the semester, including
 solo set and international women's day
 
-<!-- stack [
+stack [
 n "2 3 {2 8} ~ ~" # s "sid",
 every 3 (rev) $ n "2 3 {2 8} ~ ~" # s "sid",
 every 4 (fast 5) $ n "0 0" # s "sid"
@@ -27,7 +27,7 @@ n "6 ~ ~ ~ 6 ~ ~ " # s "808bd",
 n "~ ~ 4 ~ ~ 5 ~" # s "808sd",
 n "~ 1 ~ 2 ~ ~ 2" # s "casio"
 ]
--->
+
 
 uploaded samples ripped from YouTube to a GitHub repository, along with a .json
 resource list file pointing to them. reslists are loaded in estuary with the
